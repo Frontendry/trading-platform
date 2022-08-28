@@ -2,8 +2,6 @@
 import TableHead from "../TableHead";
 import TableBody from "../TableBody";
 
-import { TableProps } from "../../utils/interfaces";
-
 const Table = () => {
   return (
     <div className="container">
