@@ -1,5 +1,3 @@
-import React from "react";
-
 const Title = () => {
   return (
     <header className="pt-20 pb-10">
